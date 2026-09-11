@@ -1,0 +1,15 @@
+.alerta {
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.sucesso {
+  background-color: #16A34A;
+}
+
+.erro {
+  background-color: #DC2626;
+}
